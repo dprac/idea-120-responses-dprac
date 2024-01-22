@@ -6,8 +6,8 @@
 <h1>A simple heading goes here</h1>
 
   <p> New ground <br>
-  The slow path of progress
-  May soon accelerate
-  Past the gates of the old
-  And into destinations, untold 
+  The slow path of progress <br>
+  May soon accelerate <br>
+  Past the gates of the old <br>
+  And into destinations, untold <br>
 
