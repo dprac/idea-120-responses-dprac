@@ -1,3 +1,5 @@
+![JC Condemns Girl to France](https://github.com/dprac/idea-120-responses-dprac/blob/dcd1224743de92b735f37569140a2cd0c6c25071/picture%20content/Jesus%20Condemns%20Girl%20to%20France.JPG)
+
 # <h2> Barthes and Reading Images 
 
 <p>There are three types of messages Barthes believes images convey:  
