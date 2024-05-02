@@ -8,4 +8,5 @@ games that are not only interative but also highly limiting. I don't think, for 
 just be summed up by the art of sculptors in togas, and in a similar sense I also don't believe the entirity of what gaming can   
 offer starts and ends with first-person shooters.</p>
 
-<img src=picture content/June_6_Never_Gets_Interested.png>
+<img src="picture content/June_6_Never_Gets_Interested.png" alt="Kanju-kun">
+
