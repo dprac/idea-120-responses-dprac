@@ -7,3 +7,4 @@ is not just tied to the televison or home; it is a part of a virtual ecosystem t
 Apps have effectively replaced the utility of television channels, and access to media via apps like Netflix allow shows and movies   
 to be accessed with any device capable of an internet connection. </p>
 
+<img src="picture content/NetflixUI.png" alt="Netflix on a TV screen">
