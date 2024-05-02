@@ -6,7 +6,7 @@ record statistics, it can lead to some harmful and misleading interpretations. W
 I would not consider myself entirely immune. Such statistics are prone to be read at face value, and this is only made worse when the   
 methods of data collection are intentionally skewed.</p>
 
-<img src"
+<img src="picture content/you_are_not_immune.png" alt="Garf Warns You">
 
 
 <p>Another point of issue with data brought about by Cathy O'Neil is how data collection itself can have blindspots, biases, or implicit values.  
